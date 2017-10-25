@@ -32,7 +32,13 @@ body {
 #aside {
 	float: right;
 	width: 455px;
-	height: 280px;
+	height: 100%;
+}
+
+#wrapper {
+	width: 100%;
+	margin: 0;
+	height: 279px;
 }
 
 .container {
@@ -67,3 +73,4 @@ body {
 .paragraph {
 	margin-bottom: 15px;
 }
+
